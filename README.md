@@ -1,14 +1,40 @@
-# 孔德 · Skill
+<h1 align="center">comte.skill</h1>
 
-**中文** | [English](README.en.md)
+<p align="center">孔德 · Auguste Comte</p>
 
-[![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Agent Skills](https://img.shields.io/badge/Agent_Skills-Standard-blue.svg)](https://agentskills.io/) [![Made with Nuwa](https://img.shields.io/badge/Made_with-Nuwa-orange.svg)](https://github.com/alchaincyf/nuwa-skill)
+**中文** · [English](README.en.md)
 
-实证方法、科学分类与历史限制。以可追溯原作和明确边界支持思想分析，默认中性，人物表达单独开启。
+<blockquote>
+<p align="center">“科学带来预见，预见带来行动。”<br>— 孔德 · <a href="https://philosophie-pedagogie.web.ac-grenoble.fr/sites/default/files/media-fichiers/2021-07/comte_khodoss.pdf">《实证哲学教程》</a></p>
+</blockquote>
 
-使用 [nvwa-skill](https://github.com/alchaincyf/nuwa-skill) 构建。
+[![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Agent Skills](https://img.shields.io/badge/Agent_Skills-Standard-blue.svg)](https://agentskills.io/) [![Made with nvwa-skill](https://img.shields.io/badge/Made_with-nvwa--skill-orange.svg)](https://github.com/alchaincyf/nuwa-skill)
 
-[使用说明](USAGE.md) · [思想入口与研究材料](SKILL.md)
+**将实证研究、科学层级与理论应用的区分整理为思想分析 Skill，让 AI 把可检验的问题说清楚，并检查从科学发现走向实际方案还缺少哪些环节。**
+
+---
+
+## 效果示例
+
+以下为说明用法而编写的示例，展示分析思路；不是哲学家原话或实测对话记录。
+
+### 1. 有脑科学数据，是否就能设计出最好的教育制度？
+
+> 脑科学可以说明某些学习条件，却不能单独决定教育目的与制度安排。需要继续取得课堂、资源和社会层面的材料，并单独说明“最好”采用什么标准。
+
+### 2. 理论已经成立，产品为什么还会失败？
+
+> 理论成立与具体技艺可行之间，可能隔着测量、材料、组合和操作条件。先查这些转换环节，既不因应用失败就否定理论，也不把理论正确当成产品必然成功。
+
+## 蒸馏了什么
+
+| 思想方法 | 能帮助分析什么 |
+|---|---|
+| 问题划界 | 区分可观察关系、价值目标与终极起源问题。 |
+| 层级依赖 | 检验跨学科推断所需的机制与专门材料。 |
+| 理论与技艺 | 查明理论应用所需的中介知识与操作条件。 |
+
+这些方法来自已定位的原作选段，不代表全集蒸馏。具体依据与适用范围见 [SKILL.md](SKILL.md) 和 [提炼说明](EXTRACTION.md)。
 
 ## 安装
 
@@ -34,21 +60,39 @@ git clone https://github.com/jiushiaaa/comte-skill.git
 
 不支持自动加载时，可把 `SKILL.md` 连同当前问题需要的引用文件交给 agent。README 与使用说明提供中英双语，研究底稿保留原语言。
 
-## 使用
+## 使用方式
 
-例如：“用孔德的思想分析这个问题，区分原作观点与当代推断。”需要表达模拟时明确开启人物表达模式；文游创作或审读只取思想，不接管作品口吻。详见[双语使用说明](USAGE.md)。
+- **中性思想模式（默认）：**“用孔德的思想分析这个问题，区分原作观点与当代应用。”
+- **人物表达模式（可选）：**明确提出“开启人物表达模式”。这是注明性质的模拟，不是作者本人发言。
 
-## 思想方法
+文游创作默认只取思想，文风另行决定。详见 [双语使用说明](USAGE.md)。
 
-- 研究对象划界（C1；EXTRACTION第1项）
-- 层级依赖审查（C1；第2项）
-- 理论到技艺的中介（C5；新增有限程序）
+## 调研来源
 
-详见 [SKILL.md](SKILL.md) 与 [EXTRACTION.md](EXTRACTION.md)。目录中的候选、局部证据和未读范围均保留，不能把它们理解成全集蒸馏完成。
+《实证哲学教程》第一、二讲及科学分类相关选段；研究记录中的历史背景材料。
 
-## 许可
+- [原作来源、版本与实际阅读范围](references/research/source-catalog.md)
+- [方法提炼与证据](EXTRACTION.md)
+- 开篇名言出处：<a href="https://philosophie-pedagogie.web.ac-grenoble.fr/sites/default/files/media-fichiers/2021-07/comte_khodoss.pdf">《实证哲学教程》</a>，第一卷，第二讲。中文引文为本仓库译文；非英语原作的英文引文亦为本仓库译文。
 
-项目原创材料采用 [MIT](LICENSE)，引用的原著与译本保留各自权利。详见 [来源说明](ATTRIBUTION.md)。
+## 仓库结构
+
+主要文件：
+
+```text
+├── SKILL.md  # Skill 入口与分析方法
+├── README.md / README.en.md  # 中英文介绍
+├── USAGE.md  # 双语使用说明
+├── EXTRACTION.md  # 方法提炼与证据
+├── references/  # 研究笔记与可选人物表达模式
+└── LICENSE  # MIT 许可
+```
+
+## 构建工具
+
+使用 [nvwa-skill](https://github.com/alchaincyf/nuwa-skill) 构建。
+
+项目原创材料采用 [MIT](LICENSE)，所引原著与译本保留各自权利。详见 [来源说明](ATTRIBUTION.md)。
 
 ## 更多 Skill
 
