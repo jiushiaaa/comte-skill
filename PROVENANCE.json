@@ -1,0 +1,31 @@
+{
+  "id": "comte-perspective",
+  "author": "jiushiaaa",
+  "method": "https://github.com/alchaincyf/nuwa-skill",
+  "source_snapshot": "frozen-r3",
+  "snapshot_manifest": {
+    "id": "comte-perspective",
+    "files": {
+      "questions.json": "dafecec9903e047a041e868463e0fe35dd292a575e62cd3e0e00555acc82251b",
+      "skill/EXTRACTION.md": "a613329d8eaa3991bc4e58abee80d6dcfa7c5842c3ebc38b8e17b128379efcb5",
+      "skill/references/persona-expression.md": "0f3a96beade420bdbd67577dacbf528ef779ede9f0d3a0dc710285a23d63f7f4",
+      "skill/references/research/01-writings.md": "de91537b049ccc36113bcbd37fe7d55b0be1d8fe35c9efbde4e8c7f3de7c4caf",
+      "skill/references/research/02-conversations.md": "6ea12a196e7978ab82375e0714a957805a125931617c4be2b959a83c4a5a1abe",
+      "skill/references/research/03-expression-dna.md": "3b807b719a4d083e77d21449d938aca4d999cba4bdae7570fcb2257f9c3248e3",
+      "skill/references/research/04-external-views.md": "5b06b2fd544f02952a89536af6fd7c0b2c25c7a3c42d448119e3e764656e99aa",
+      "skill/references/research/05-decisions.md": "ff0c16e7fc21ce8fa3595d51d7090326a8f4f3e0af8158b191b6d7df038b4f31",
+      "skill/references/research/06-timeline.md": "311af2ee12ea660ffe9a7c9a5be0373247119503b67ad1d577cad1cdc455ad33",
+      "skill/references/research/10-deep-primary-language.md": "d32da4455eff1193bcb49473007fc9cb6466616d2aefb65d2249dca5db0f53e2",
+      "skill/references/research/12-nuwa-a-evidence.json": "d49b83d2615046892dd61388a07dd142b244d58145175629f5b2a15c1bae6f0d",
+      "skill/references/research/12-nuwa-a-evidence.md": "f73ac3f8c0ea10f180448983f17bfad73c085a73c020e833d2453e643e10c602",
+      "skill/references/research/13-primary-argument-chains.json": "a820cfea1f0483da27427e3f26fc923be849fdca9aaf9e2641ee8e1b9943fb95",
+      "skill/references/research/13-primary-argument-chains.md": "70ec84e7beebb94e3d770d8c1606e53e537cefef2de13fc3e8ee5868dcd09356",
+      "skill/references/research/15-r2-primary-evidence.md": "56c151760168426c88b11654b946dc97f1f70cacd649552f61f3d9ea4ee99b67",
+      "skill/references/research/comte-perspective-sample.json": "ff0d602881ca3943c46fe1e64144f67b70ddc3779f010fcb484a4f1cab7306f2",
+      "skill/references/research/source-catalog.md": "4fb1cab8bd421b16ded5a3867ad44294189e0c0447084107de04636da3fb3f7a",
+      "skill/SKILL.md": "d6f652521e77a712510b9b933edfff92dfc87e3813d0a5611495a474ddf8c55d"
+    },
+    "historical_validation_excluded": true
+  },
+  "public_packaging": "Bilingual readmes and usage, attribution, license, sanitized local paths; no score optimization."
+}

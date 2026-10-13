@@ -1,0 +1,96 @@
+{
+  "id": "comte-perspective",
+  "known_positions": [
+    {
+      "q": 1,
+      "score": 10,
+      "reason": "教学逻辑次序不同发现历史，承认历史整体联系",
+      "source": "Cours de philosophie positive I第二讲；本轮直接核，见source_audit"
+    },
+    {
+      "q": 2,
+      "score": 10,
+      "reason": "即使可物化说明也须研究组织特殊条件，保留假设模态",
+      "source": "Cours de philosophie positive I第二讲；本轮直接核，见source_audit"
+    },
+    {
+      "q": 3,
+      "score": 10,
+      "reason": "分类先后不排除光学反向借助",
+      "source": "Cours de philosophie positive I第二讲；本轮直接核，见source_audit"
+    }
+  ],
+  "source_audit": [
+    {
+      "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+      "status": "direct_read",
+      "scope": "web391–412；HTTP p133及144–150直接法文核对"
+    }
+  ],
+  "judge": "B",
+  "model": "unknown",
+  "voice": {
+    "score": 6,
+    "reason": "首猜培根；方法迁移、条件检验高度通用，无法由声音认出孔德。",
+    "blind_guess": {
+      "code": "N08",
+      "guess": "培根（低置信猜测）",
+      "confidence": 0.26,
+      "alternatives": [
+        "杜威",
+        "皮尔士"
+      ],
+      "formal_features": "先声明方法迁移边界，再作二分，最后把结论延期到事实比较之后；像方法说明文。",
+      "content_clues": "可观察后果、经验修正、研究方法的有限应用，偏经验探究传统。",
+      "limits": "这些线索可适用于很多经验主义者；表达本身没有确定指纹。"
+    },
+    "limits": "这些线索可适用于很多经验主义者；表达本身没有确定指纹。 正式只用Q5，Q6不加分。"
+  },
+  "sources": {
+    "score": 14,
+    "reason": "原作版本、已读局部与未读范围可追；原文直接核查支持已知题，但不等于全书精读或校勘。",
+    "primary_ratio_basis": "三部独立孔德作品，穆勒批评和SEP另计，共3/5。"
+  },
+  "structure": {
+    "score": 12,
+    "reason": "入口有具体动作、反例及停止条件，张力有原作定位；局部程序和候选不视为已证成熟跨域模型。",
+    "models": [
+      "研究对象划界",
+      "层级依赖",
+      "理论技艺中介"
+    ],
+    "boundaries": [
+      "不可检验非不存在",
+      "生理不能直接推出制度",
+      "不将三阶段作人群等级"
+    ],
+    "tensions": [
+      "逻辑次序／反向借用",
+      "行动基础／不以即时用途衡量科学"
+    ]
+  },
+  "edge": {
+    "score": 20,
+    "reason": "统一开场说明人物模拟；Q4正文明确为当代迁移或推断，保留未知和所缺依据，没有伪装成作者历史表态。"
+  },
+  "paired_comparison": {
+    "code": "P01",
+    "blind_preference": "second",
+    "mapped_preference": "r3_better",
+    "reasoning": "两者都保留便利并允许修正；second明确环境稳定／条件改变的差别，且将修订限定为相应习惯，未把一个反例扩成全盘否定。first的出现反例时修正稍笼统。",
+    "expression": "second按功用、条件、偏离预期、保留有效部分推进，比first的既不／也不双重口号更有因果联系。",
+    "post_unblinding_issues": [
+      "解盲核对Q6完整题干：仅说习惯可能遮蔽注意；原盲判保留，没有从可能性直接裁成所有习惯有害。"
+    ],
+    "limits": "仅此短样本；不知原题全文和作者，无法判定这种方法是否为其本人主张。 R2为Q5、R3为Q6，不是单变量实验。"
+  },
+  "blockers": [],
+  "limitations": [
+    "中文短样本及少数题，不能代表全书、全时期或人类专家认证。",
+    "原作仅核查source_audit所列位置；其余研究阅读记录为继承材料，不声称本评审通读。"
+  ],
+  "total": 82,
+  "grade": "B",
+  "original_report_sha256": "ba6757eb0b52bcd8ae4e4112a5576f47e7cf22820713ea54545f102ada4e8448",
+  "export_note": "Local read-path metadata omitted. Scores and judgments unchanged."
+}

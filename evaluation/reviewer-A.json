@@ -1,0 +1,84 @@
+{
+  "id": "comte-perspective",
+  "judge": "A",
+  "model": "unknown",
+  "known_positions": [
+    {
+      "q": 1,
+      "score": 10,
+      "reason": "区分历史形成与体系讲授，保留科学相互联系而不要求照年表教学。",
+      "source": "Cours I第二讲；本轮HTTP局部检索，教学顺序的完整链未连续重读，部分依冻结提炼。https://www.gutenberg.org/files/31881/31881-h/31881-h.htm"
+    },
+    {
+      "q": 2,
+      "score": 10,
+      "reason": "接受即使还原的题设仍保留特殊组织条件的研究，不把生理学独立等同实体二元论。",
+      "source": "同作第二讲生命／无机分类段，HTTP直接核到即使统一规律仍须研究特殊修改的末段"
+    },
+    {
+      "q": 3,
+      "score": 10,
+      "reason": "主要依赖次序不排除光学反向借用，论点准确且有限。",
+      "source": "同作天文／光学段HTTP检索局部；未全讲通读"
+    }
+  ],
+  "voice": {
+    "score": 7,
+    "blind_guess": "孔德",
+    "reason": "弱猜命中依赖可观察关系；研究方法说明高度通用，不能由实证主义词汇认定口吻。",
+    "limits": "首次盲猜与置信以已锁定A-blind.json为准；此单题组织高度共享，思想词不直接折算口吻，未做原语言文体认证。"
+  },
+  "edge": {
+    "score": 20,
+    "reason": "开场标明模拟，Q4正文明确区分框架迁移与作者真实立场，并保留事实及规范证据不足，未虚构当代意见。"
+  },
+  "sources": {
+    "score": 13,
+    "reason": "原语言、译本、穆勒批评归属和历史分期清楚；旧目录缺口与后来范围需要合并，未校印本。",
+    "primary_ratio_basis": "教程、实证主义总论、实证精神论3部作者一手；穆勒批评对孔德属外部材料，另SEP，共3/5。"
+  },
+  "structure": {
+    "score": 12,
+    "reason": "关系划界、层级与技艺中介有不同任务与停止条件；第三个旧标题是历史问题框架不算模型，累计有3项有限可执行入口。",
+    "models": [
+      "关系研究与终极原因分开",
+      "依赖层级与学科自主性",
+      "理论至技艺中介"
+    ],
+    "boundaries": [
+      "不把穆勒批评归孔德",
+      "不可检验不推出不存在",
+      "后期政治材料未覆盖",
+      "三阶段不作现代等级"
+    ],
+    "tensions": [
+      "百科次序／实际反向借用",
+      "行动基础／研究不以即时用途为前提"
+    ]
+  },
+  "total": 82,
+  "grade": "B",
+  "blockers": [],
+  "limitations": [
+    "单次离线答题、中文短段和局部原作核查不代表整个人格或全体系；直接打开不等于通读。",
+    "初次盲读缺完整题干，Q5/Q6共同题型容易诱发同构回答；辨识成功可能依赖概念线索，非纯文体命中。"
+  ],
+  "source_verification": [
+    {
+      "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+      "status": "direct_partial_after_web_failure",
+      "read": "web两次Internal Error；HTTP成功，检索读到天文／光学及生理学区分部分，未连续重读第二讲；错误p索引落入数学章不计相关核查"
+    }
+  ],
+  "paired_comparison": {
+    "code": "P01",
+    "blind_preference": "second",
+    "mapped_result": "r3_better",
+    "post_unblinding_issues": [
+      "设计限制：首次匿名包未附完整题干；现已核冻结Q5/Q6。Q6只称可能不留意，并未断言每一习惯已经有害。盲判的条件性措辞疑点保留为歧义，不自动升级为确定错误；不回写盲判。Q5充分理由是否指客观充分或当事人自认充分也未定义，询问检验条件不直接算偷换题设。"
+    ],
+    "basis": "保留哈希锁定A-paired-blind.json的reasoning、expression及limits；仅据paired-mapping-private.json映射版本，不倒改初评。"
+  },
+  "original_report_sha256": "4a46c5a469880bb23b2a539886d31dd01a110e89ce539b581b4cd2d906d45f45",
+  "export_note": "Local read-path metadata omitted. Scores and judgments unchanged."
+}

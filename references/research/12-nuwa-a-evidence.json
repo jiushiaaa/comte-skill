@@ -1,0 +1,184 @@
+{
+  "id": "comte-perspective",
+  "date": "2026-10-13",
+  "run": "nuwa-a-20261013",
+  "role": "independent_primary_research_not_judge",
+  "status": "研究补证；不评分，不授予A级，不等于全集完成",
+  "canonical_changed": false,
+  "prior_materials_read": [
+    "SKILL.md",
+    "EXTRACTION.md",
+    "references/research/03-expression-dna.md",
+    "references/research/source-catalog.md",
+    "references/research/10-deep-primary-language.md"
+  ],
+  "name": "孔德",
+  "coverage": [
+    {
+      "work": "Cours de philosophie positive I",
+      "period": "1830",
+      "actual_reading": "继承C1第一讲123–146、176–190及C5第二讲350–369；本轮第二讲405–452连续补读；另实读sample记录20段。网页行非印页。",
+      "not_read": "其余五卷及本卷未列范围；社会静力学/动力学不能视为已完整阅读"
+    },
+    {
+      "work": "A General View of Positivism",
+      "period": "1848 / Bridges 1908英译",
+      "actual_reading": "继承C2导论216–252等有限选段，本轮未重新核原文",
+      "not_read": "法文后期政治体系及通信；英译不能用于孔德法语指纹"
+    }
+  ],
+  "primary_additions": [
+    {
+      "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+      "locator": "第二讲网页405–452；含分类与实际史、无机/有机、天体/地球、物理/化学连续论证",
+      "argument": "学科的逻辑次序不等于实际发现顺序；天文学仍借助光学。一般物理条件与生命现象的特有修饰同时保留。",
+      "boundary": "原作列举两种以上自然研究领域，仍是纲领性同篇见证；不是完成各科学卷的实证应用审查。"
+    }
+  ],
+  "model_audit": [
+    {
+      "name": "研究对象划界",
+      "domain_evidence": [
+        {
+          "domain": "天文学",
+          "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+          "locator": "第一讲158–161",
+          "evidence": "引力关系与引力本性问题分开"
+        },
+        {
+          "domain": "热学",
+          "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+          "locator": "第一讲162–164",
+          "evidence": "傅里叶热规律不依赖对热本性的争论"
+        }
+      ],
+      "cross_domain_assessment": "两个自然科学领域的原作并列应用；比旧记录充分，仍缺社会研究的完整应用。",
+      "generative_power": {
+        "assessment": "能要求新解释区分关系与终极原因；仅操作化假说。",
+        "independent_test_completed": false
+      },
+      "distinctiveness": "有明确排除首因/终因和统一规律方向，强于一般要求数据；不能据不可研究推出不存在。",
+      "status": "保留有限程序；未完成三重独立验证"
+    },
+    {
+      "name": "层级依赖审查",
+      "domain_evidence": [
+        {
+          "domain": "生理/无机研究",
+          "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+          "locator": "第二讲433–443",
+          "evidence": "依赖基础规律不取消特有研究"
+        },
+        {
+          "domain": "天文/地球物理",
+          "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+          "locator": "第二讲445–452及417",
+          "evidence": "逻辑次序与实际借用条件有别"
+        }
+      ],
+      "cross_domain_assessment": "本轮补足同篇局部两域见证，未把现代疾病/组织例当证据。",
+      "generative_power": {
+        "assessment": "能揭示基础规律不足以直接替代特有材料；未做新问题独立测试。",
+        "independent_test_completed": false
+      },
+      "distinctiveness": "依一般性、复杂度、依赖排列，且承认历史互借；不可等同现代还原论已解决。",
+      "status": "保留有限程序；未完成三重独立验证"
+    },
+    {
+      "name": "理论到技艺的中介",
+      "domain_evidence": [
+        {
+          "domain": "农业",
+          "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+          "locator": "第二讲C5既读350–369",
+          "evidence": "具体技艺组合多门知识"
+        },
+        {
+          "domain": "工程中介",
+          "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+          "locator": "同段",
+          "evidence": "工程师作为科学与技艺之间的新工作类型"
+        }
+      ],
+      "cross_domain_assessment": "农业例与工程师的一般说明并非两个独立技艺完整案例；第二域证据仍弱。",
+      "generative_power": {
+        "assessment": "可生成转换条件清单；未独立实测。",
+        "independent_test_completed": false
+      },
+      "distinctiveness": "同时维护理论自主与实际应用的中介，不等于泛用研究管理算法。",
+      "status": "保留有限程序；未完成三重独立验证"
+    }
+  ],
+  "tensions": [
+    {
+      "pole_a": "依赖固定的百科逻辑次序",
+      "pole_b": "实际科学发展存在反向借用及共同历史",
+      "primary_support": [
+        {
+          "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+          "locator": "第二讲405–419"
+        }
+      ],
+      "kind": "共同要求之间的张力，非简单自相矛盾"
+    },
+    {
+      "pole_a": "科学为行动提供基础",
+      "pole_b": "理论发现不能以即时用途作为前提",
+      "primary_support": [
+        {
+          "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+          "locator": "第二讲350–369 / sample p102"
+        }
+      ],
+      "kind": "共同要求之间的张力，非简单自相矛盾"
+    }
+  ],
+  "remaining_gaps": [
+    "理论到技艺尚无两种具体技艺的完整跨域论证。",
+    "后期法语政治/宗教作品与通信未深读；只有早期法语20段，不能称终身表达全貌。",
+    "三条独立生成力和辨识度测试仍须答题/评分角色分离。"
+  ],
+  "expression": {
+    "sample_method": "见可复跑脚本nuwa_a_research_2_sampler.py：固定种子20261013，HTML p序号从0起，规范化空白后取SHA256。通常仅30–180词段，故不是全文均匀抽样；所有最终选中段已在工具输出逐段实际查看。霍克海默为10个合格段的全取；奥斯汀未建立可靠分段。",
+    "sample_count": 20,
+    "metrics": {
+      "words": 2256,
+      "sentences": 57,
+      "question_sentences": 1,
+      "first_person_tokens": 18,
+      "contrast_tokens": 4,
+      "mean_words_per_sentence": 39.579,
+      "question_sentence_ratio": 0.01754,
+      "first_person_per_1000_words": 7.979,
+      "contrast_per_1000_words": 1.773
+    },
+    "source_language": "法语原文",
+    "style_rules": [
+      "先限定论题，再声明分类原则；给出分类依据后进入具体分支。",
+      "用因果连接交代每次推论；遇到看似还原的表述，补一项限定。",
+      "长句只承载有层次的解释，随后用较短的归结收束；不机械复刻法语句长。"
+    ],
+    "anti_patterns": [
+      "不得用“实证”把价值争论变成已经测量完成的事实。",
+      "不得堆砌三阶段口号、拟造第一人称回忆或将英译者句式当法语作者。",
+      "不将原文时代性的文明等级用作现代人物分等。"
+    ],
+    "limitations": [
+      "Length-restricted sampling (30–180 words), not representative of the full work; Horkheimer uses ten eligible original paragraphs without length filtering.",
+      "Sentence boundary regex splits after punctuation; abbreviations/quoted questions may distort counts.",
+      "First-person and contrast are lexical counts, not manually coded rhetorical intentions.",
+      "Analogy density and certainty ratio not measured.",
+      "Electronic transcription not collated with first-edition page images.",
+      "中文输出只迁移高层修辞功能，不把英法词长/词频硬套到中文。",
+      "统计中的第一人称可来自作者构造的示范/虚拟对话，不证明真实自述；所概述的他人观点也不是作者赞同。",
+      "只用于用户明确选用的独立表达附录；默认中性思想，文游禁文风。"
+    ],
+    "sample_records_file": "comte-perspective-sample.json",
+    "analogy_density": null,
+    "certainty_ratio": null
+  },
+  "access_log": [
+    "web.open成功；requests只读获取用于段落计数；仅保留SHA256、指标和原创笔记，不保存原作全文。"
+  ],
+  "prior_evidence_policy": "标为继承的范围来自已读本地来源目录及10/11记录，不宣称本轮重新阅读所有原作；网页行号为工具当时定位，复核须结合章节/段落指纹。"
+}

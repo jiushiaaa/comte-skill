@@ -1,0 +1,253 @@
+{
+  "source_hashes": [
+    {
+      "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+      "sha256": "45994a9b81e95589f0955501afa501aa538fe7725f770c50bd5ca05bb281a30c"
+    }
+  ],
+  "pool_size": 128,
+  "sample_count": 20,
+  "sample_seed": 20261013,
+  "records": [
+    {
+      "work": "Cours I, 1830, Gutenberg French",
+      "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+      "html_p_index_zero_based": 176,
+      "sha256_normalized_paragraph": "131f67f6e4c3ad1838e6afa2b8214bd2dde56515dd3152897659de557b219d1a",
+      "words": 121,
+      "sentences": 2,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Cours I, 1830, Gutenberg French",
+      "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+      "html_p_index_zero_based": 83,
+      "sha256_normalized_paragraph": "199dcdce2803e609310789e2bbd93e9af5636c991fd887f5e749f99fc87ba0f7",
+      "words": 37,
+      "sentences": 1,
+      "question_sentences": 0,
+      "first_person_tokens": 2,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Cours I, 1830, Gutenberg French",
+      "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+      "html_p_index_zero_based": 131,
+      "sha256_normalized_paragraph": "01695c21dcd7e145f138f21eacad1cb66207815eb2a35fbd206b1a1b18125ac2",
+      "words": 69,
+      "sentences": 2,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "Cours I, 1830, Gutenberg French",
+      "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+      "html_p_index_zero_based": 182,
+      "sha256_normalized_paragraph": "3a68bf381feb7ef39ec2ac2103eab20e9da48d02e9e528f7cff2b6ca4e365bf8",
+      "words": 85,
+      "sentences": 3,
+      "question_sentences": 0,
+      "first_person_tokens": 2,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "Cours I, 1830, Gutenberg French",
+      "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+      "html_p_index_zero_based": 45,
+      "sha256_normalized_paragraph": "acc448a9e8d2a8731975574d5f4de4b6bb0c0a7ea85ca65fc94152a1e5f7750e",
+      "words": 88,
+      "sentences": 2,
+      "question_sentences": 0,
+      "first_person_tokens": 1,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Cours I, 1830, Gutenberg French",
+      "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+      "html_p_index_zero_based": 164,
+      "sha256_normalized_paragraph": "05f0d3649e309d13d0d7f981d2ea7b9767f3ab2c0523f157ae88d0a7dc775d45",
+      "words": 169,
+      "sentences": 4,
+      "question_sentences": 0,
+      "first_person_tokens": 3,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Cours I, 1830, Gutenberg French",
+      "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+      "html_p_index_zero_based": 28,
+      "sha256_normalized_paragraph": "c3d46b2c675d02249418f616a30e16caecfd62de3df97767a6849f42b9b5aa73",
+      "words": 156,
+      "sentences": 5,
+      "question_sentences": 1,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "Cours I, 1830, Gutenberg French",
+      "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+      "html_p_index_zero_based": 102,
+      "sha256_normalized_paragraph": "769fd656437be4097e4efc19e466fd46a6e6d1df5d024a6a7ea2a9ba59c6f41e",
+      "words": 89,
+      "sentences": 1,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Cours I, 1830, Gutenberg French",
+      "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+      "html_p_index_zero_based": 37,
+      "sha256_normalized_paragraph": "7e977433b88b54008a323f79688d09d47497798edffc2302e6e798dafc45c6f5",
+      "words": 179,
+      "sentences": 5,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Cours I, 1830, Gutenberg French",
+      "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+      "html_p_index_zero_based": 18,
+      "sha256_normalized_paragraph": "2ad9a337e65e6355924918415b62ac01d1561bbf6d368d6bc5d34791f14ee817",
+      "words": 114,
+      "sentences": 3,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Cours I, 1830, Gutenberg French",
+      "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+      "html_p_index_zero_based": 95,
+      "sha256_normalized_paragraph": "d9673679e6a1befcde5cbd2cd768ba64585a9d8a70ecf24d162d24cc06ef9daa",
+      "words": 143,
+      "sentences": 3,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Cours I, 1830, Gutenberg French",
+      "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+      "html_p_index_zero_based": 48,
+      "sha256_normalized_paragraph": "24ea6c7b6ec1d8a90c9d472b8a80f1c111bca000973e59da6fd17a68f0763ee6",
+      "words": 99,
+      "sentences": 4,
+      "question_sentences": 0,
+      "first_person_tokens": 1,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Cours I, 1830, Gutenberg French",
+      "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+      "html_p_index_zero_based": 107,
+      "sha256_normalized_paragraph": "0fefe1a8fc857b4b2ac1398dc867542ccd78c10f4e5333ff6a41e5f8512a1c79",
+      "words": 124,
+      "sentences": 2,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Cours I, 1830, Gutenberg French",
+      "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+      "html_p_index_zero_based": 58,
+      "sha256_normalized_paragraph": "3e4abd04a62003dd2c73a939be22120772d61ff4a6fc9ae5662cdee5ec095dc8",
+      "words": 125,
+      "sentences": 3,
+      "question_sentences": 0,
+      "first_person_tokens": 1,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Cours I, 1830, Gutenberg French",
+      "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+      "html_p_index_zero_based": 85,
+      "sha256_normalized_paragraph": "98c49c8554e562a562022013c666945d934502a33700b3e47f57c6c618bcaf44",
+      "words": 161,
+      "sentences": 3,
+      "question_sentences": 0,
+      "first_person_tokens": 4,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Cours I, 1830, Gutenberg French",
+      "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+      "html_p_index_zero_based": 174,
+      "sha256_normalized_paragraph": "8514946294d45cf097d06a45a8193ec65f1ab3c7efab6072f5a1381c1ebf5a4a",
+      "words": 41,
+      "sentences": 1,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Cours I, 1830, Gutenberg French",
+      "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+      "html_p_index_zero_based": 187,
+      "sha256_normalized_paragraph": "f3919319b07d8c457d039abd487daacb0651f1fb2f9419e8d39e4b6ee2417423",
+      "words": 115,
+      "sentences": 3,
+      "question_sentences": 0,
+      "first_person_tokens": 1,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "Cours I, 1830, Gutenberg French",
+      "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+      "html_p_index_zero_based": 64,
+      "sha256_normalized_paragraph": "1f0544fe8fb5dec504d696d9aea15b81d1532dc292d33c0365dbe606e324bc6d",
+      "words": 71,
+      "sentences": 4,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Cours I, 1830, Gutenberg French",
+      "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+      "html_p_index_zero_based": 25,
+      "sha256_normalized_paragraph": "0b5784bc0a2d4bfd3471129ece33ca9dfd3d508e12d94dd1779c764da66c4c2f",
+      "words": 122,
+      "sentences": 2,
+      "question_sentences": 0,
+      "first_person_tokens": 1,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Cours I, 1830, Gutenberg French",
+      "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+      "html_p_index_zero_based": 60,
+      "sha256_normalized_paragraph": "41fe0004ba3fbebc32d3ca5091f676af341a05168478e22408a13d5fd2c4a84a",
+      "words": 148,
+      "sentences": 4,
+      "question_sentences": 0,
+      "first_person_tokens": 2,
+      "contrast_tokens": 0
+    }
+  ],
+  "metrics": {
+    "words": 2256,
+    "sentences": 57,
+    "question_sentences": 1,
+    "first_person_tokens": 18,
+    "contrast_tokens": 4,
+    "mean_words_per_sentence": 39.579,
+    "question_sentence_ratio": 0.01754,
+    "first_person_per_1000_words": 7.979,
+    "contrast_per_1000_words": 1.773
+  },
+  "analogy_density": null,
+  "certainty_ratio": null,
+  "limitations": [
+    "Length-restricted sampling (30–180 words), not representative of the full work; Horkheimer uses ten eligible original paragraphs without length filtering.",
+    "Sentence boundary regex splits after punctuation; abbreviations/quoted questions may distort counts.",
+    "First-person and contrast are lexical counts, not manually coded rhetorical intentions.",
+    "Analogy density and certainty ratio not measured.",
+    "Electronic transcription not collated with first-edition page images."
+  ]
+}
